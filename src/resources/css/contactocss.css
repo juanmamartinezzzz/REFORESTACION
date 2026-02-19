@@ -10,6 +10,6 @@ body {
 }
 
 h1 {
-    color: #007bff; /* Azul brillante */
-    text-shadow: 2px 2px 4px rgba(0,0,0,0.1);
+    --color: #007bff; /* Azul brillante */
+    --text-shadow: 2px 2px 4px rgba(0,0,0,0.1);
 }
